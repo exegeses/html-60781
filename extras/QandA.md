@@ -15,9 +15,7 @@ sintáxis
     </p>
 
 
-
-encabezados: sirven para marcar el TEMA
-que vamos a desarrollar
+estructura
 
 
 
