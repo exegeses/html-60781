@@ -1,0 +1,16 @@
+body{
+    background-color: #f8f8f8;
+}
+
+header{
+    background-color: rgb(191, 0, 255);
+    color: #fff;
+    height: 90px;
+}
+main{
+    height: 550px;
+}
+footer{
+    background-color: rgb(242, 239, 243);
+    height: 120px;
+}
