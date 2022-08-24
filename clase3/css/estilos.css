@@ -1,0 +1,22 @@
+body{
+    background-color: #f8f8f8;
+    font-family: helvetica;
+    margin: 0px;
+}
+header{
+    height: 90px;
+    background-color: #FCCFCF;
+}
+
+nav{
+    line-height: 90px;
+    margin-left: 110px;
+}
+
+a{
+    color: #482F2F;
+}
+
+img{
+    width: 64px;
+}
