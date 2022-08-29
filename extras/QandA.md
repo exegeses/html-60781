@@ -4,7 +4,10 @@
 En HTML "TODOS" los elementos son contenedores
 excepto las interrupciones
 
-landing 
+
+Si la caja 3 es mayor que las otras, 
+la caja del medio queda centrada en la página o entre ambas cajas?
+
 
 
 

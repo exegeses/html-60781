@@ -1,0 +1,55 @@
+body{
+    background-color: #ddd;
+}
+#contenedor{
+    width: 780px;
+    margin: auto;
+    height: 500px;
+    background-color: #fff;
+
+    /* flexbox */
+    display: flex; /* ubica elementos de bloque uno al lado del otro */
+
+    /* alineación en eje HORIZONTAL */
+    /* justify-content: start; /* predeterminado: a la izquierda */
+    /* justify-content: end; /* a la derecha */
+    /* justify-content: center; /* centra los elementos contenidos */
+
+    /* separación de los elementos contenidos */
+    justify-content: space-between;
+
+    /* alineación en el eje VERTICAL */
+    /* align-items: start; /* predeterminado: arriba */
+    /* align-items: end; /* debajo */
+    align-items: center; /* center */
+}
+
+/* descendencia:  elementos hijos */
+    /* en este caso, los article que estén dentro de #contenedor */
+#contenedor article{
+    width: 200px;
+    height: 150px;
+    background-color: #323232;
+
+}
+
+
+#contenedor2{
+    background-color: #fff;
+    width: 960px;
+    margin: auto; /* centrar la caja en horizontal */
+    height: 600px;
+    margin-top: 32px;
+
+    display: flex;
+    justify-content: space-between;
+}
+#contenedor2 article{
+    width: 260px;
+    height: 400px;
+    background-color: #323232;
+    color: #fff;
+
+    text-align: center;
+
+}

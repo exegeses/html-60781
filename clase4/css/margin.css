@@ -1,0 +1,22 @@
+#naranja{
+    height: 120px;
+    width: 250px;
+    margin: 50px; /* separación hacia FUERA */
+    background-color: rgb(255, 166, 98);
+}
+#verde{
+    height: 120px;
+    width: 250px;
+    margin-left: 200px;
+    margin-bottom: 70px;
+    background-color: rgb(98, 255, 127);
+}
+#celeste{
+    height: 120px;
+    width: 250px;
+    /* usamos margin:auto para centrar una caja */
+    /* en el eje HORIZONTAL */
+    margin: auto;
+
+    background-color: rgb(98, 255, 245);
+}
