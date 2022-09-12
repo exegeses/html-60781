@@ -8,6 +8,7 @@ excepto las interrupciones
 
 
 
+
 sintáxis
 
     <elemento> objeto </elemento>
