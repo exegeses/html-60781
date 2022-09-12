@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: verdana;
+    font-size: 2em;
+    color: #666;
+}
+
+ul{
+    margin-left: 50px;
+}
