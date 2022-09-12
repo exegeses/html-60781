@@ -20,7 +20,7 @@ a{
 h2{
     font-size: 32px;
     color: #FFB968;
-    font-weight: 300; 
+    font-weight: 600; 
 }
 
 header{
@@ -127,3 +127,26 @@ main{
         align-items: center; /* contenido centrado en vertical */
         justify-content: center; /* contenido centrado en horizontal */
     }
+
+/*###  sección Historia  ###*/
+    #historia{
+        display: flex;
+        justify-content: space-between;
+    }    
+
+    #historia article{
+        width: 339px;
+        background-color: #807871;
+        color: #fff;
+    }
+
+        #historia article img{
+            width: 339px;
+            height: 301px;
+        }
+        #historia article h3{
+            padding: 16px 32px;
+        }
+        #historia article p{
+            padding: 0px 32px 32px 32px;
+        }
