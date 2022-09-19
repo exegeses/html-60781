@@ -228,4 +228,24 @@ footer{
         margin: auto;
         display: flex;
         justify-content: space-between;
+        align-items: center;
+        color: #fff;
     }
+
+    #contenido-footer div img{
+        width: 32px;
+        margin-right: 12px;
+    }
+
+    #contenido-footer nav{
+        display: flex;
+    }
+        #contenido-footer nav ul{
+            list-style-type: none;
+            margin-left: 60px;
+        }
+
+        .destacado{
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
